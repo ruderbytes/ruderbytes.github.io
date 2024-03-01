@@ -1,0 +1,45 @@
+{
+  "info": {
+    "id": 1,
+    "syaikhID": "MA-SA1",
+    "name": "Muhammad Ayyub",
+    "origin": "Saudi Arabia"
+  },
+  "playlist": [
+    {
+      "id": 1,
+      "surah": "Yusuf",
+      "description": "Surat Yusuf",
+      "url": "https://leafox.id/quranplayer/syaikh/mra/yusuf-1991H.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "surah": "An Najm",
+      "description": "Surat An Najm",
+      "url": "https://leafox.id/quranplayer/syaikh/mra/annajm-1991H.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "surah": "Al Baqrah",
+      "description": "Surat Al Baqarah",
+      "url": "https://leafox.id/quranplayer/syaikh/mra/albaqarah-1991H.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "surah": "Ibrahim",
+      "description": "Surat Ibrahim",
+      "url": "https://leafox.id/quranplayer/syaikh/mra/ibrahim-1991H.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "surah": "As Shaffat",
+      "description": "Surat As Shaffat",
+      "url": "https://leafox.id/quranplayer/syaikh/mra/assafat-1991H.mp3",
+      "lyrics": ""
+    },
+  ]
+}
