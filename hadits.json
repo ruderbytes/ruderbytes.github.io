@@ -1,22 +1,27 @@
 [
   {
     "id": 1,
-    "text": "Hadits arbain 1"
+    "text_ar": "Hadits arbain 1",
+    "text_tr": "Hadits arbain 1 tr"
   },
   {
     "id": 2,
-    "text": "Hadits arbain 2"
+    "text_ar": "Hadits arbain 2",
+    "text_tr": "Hadits arbain 2 tr"
   },
   {
     "id": 3,
-    "text": "Hadits arbain 3"
+    "text_ar": "Hadits arbain 3",
+    "text_tr": "Hadits arbain 3 tr"
   },
   {
     "id": 4,
-    "text": "Hadits arbain 4"
+    "text_ar": "Hadits arbain 4",
+    "text_tr": "Hadits arbain 4 tr"
   },
   {
     "id": 5,
-    "text": "Hadits arbain 5"
+    "text_ar": "Hadits arbain 5",
+    "text_tr": "Hadits arbain 5 tr"
   }
 ]
