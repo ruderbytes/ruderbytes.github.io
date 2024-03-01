@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "syaikhID": "MA-SA1",
+    "name": "Muhammad Ayyub",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 2,
+    "syaikhID": "HAR-SA2",
+    "name": "Hani Ar Rifai",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 3,
+    "syaikhID": "SAG-SA3",
+    "name": "Sa’ad Al Ghomidi",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 4,
+    "syaikhID": "MRA-SA4",
+    "name": "Misyari Rasyid Al Afasy",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 5,
+    "syaikhID": "AH-SA5",
+    "name": "Al Husairy",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 6,
+    "syaikhID": "MSAM-SA6",
+    "name": "Muhammad Sidiq Al Minsawi",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 7,
+    "syaikhID": "AAS-SA7",
+    "name": "Abdurrohman As Sudays",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 8,
+    "syaikhID": "AS-SA8",
+    "name": "As Suraim",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 9,
+    "syaikhID": "NAR-SA9",
+    "name": "Nabil Ar Rifai",
+    "origin": "Saudi Arabia"
+  },
+  {
+    "id": 10,
+    "syaikhID": "AM-SA10",
+    "name":  "Abdullah Mathrud",
+    "origin": "Saudi Arabia"
+  }
+]
